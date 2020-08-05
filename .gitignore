@@ -1,0 +1,21 @@
+# Specifies intentionally untracked files to ignore when using Git.
+# http://git-scm.com/docs/gitignore
+
+# OS X
+.DS_Store
+
+# Python
+__pycache__
+.ipynb_checkpoints
+*.pyc
+
+# IntelliJ
+*.iml
+.idea/
+
+# Folders
+logs/
+results/
+runs/
+temp/
+tmp/
