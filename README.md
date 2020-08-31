@@ -48,10 +48,16 @@ For questions, suggestions, feedback or bug reports, please open an issue or con
 ## Citation
 
 ```
-@InProceedings{pi-snm-qde,
+@InProceedings{pi-snm-qde:2020,
   title = {Prediction Intervals: Split Normal Mixture from Quality-Driven Deep Ensembles},
   author = {S. Salem, T{\'a}rik and Langseth, Helge and Ramampiaro, Heri},
   booktitle = {Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)},
-  year = {2020}
+  year = {2020},
+  volume = {124},
+  pages = {1179--1187},
+  editor = {Jonas Peters and David Sontag},
+  series = {Proceedings of Machine Learning Research},
+  publisher = {PMLR},
+  url = {http://proceedings.mlr.press/v124/saleh-salem20a.html}
 }
 ```
